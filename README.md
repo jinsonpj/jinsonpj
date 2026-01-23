@@ -1,8 +1,10 @@
 ## Hi there 👋
 I’m a junior software developer training at Northcoders, building JavaScript applications with a focus on clean logic, testable code, and real-world problem solving.
 
-First Mini Project [Mars Rover 😂]([url](https://github.com/jinsonpj/js-mars-rover.git)) In progress....
-Currently reading [How to Learn to Code & Get a Developer Job](https://www.freecodecamp.org/news/learn-to-code-book/)
+First Mini Project - - - [**Mars Rover 😂**]([url](https://github.com/jinsonpj/js-mars-rover.git))
+Status: In progress....
+
+My reading list: [How to Learn to Code & Get a Developer Job](https://www.freecodecamp.org/news/learn-to-code-book/)
 <!--
 **jinsonpj/jinsonpj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
