@@ -1,7 +1,7 @@
 ## Hi there 👋
 I’m a junior software developer training at Northcoders, building JavaScript applications with a focus on clean logic, testable code, and real-world problem solving.
 
-I’m currently working on my First Mini Project - - - [**Mars Rover 😂**]([url](https://github.com/jinsonpj/js-mars-rover.git))
+I’m currently working on my First Mini Project - - - [**Mars Rover 😂**](https://github.com/jinsonpj/js-mars-rover.git)
 Status: In progress....
 
 My reading list: [How to Learn to Code & Get a Developer Job](https://www.freecodecamp.org/news/learn-to-code-book/)
