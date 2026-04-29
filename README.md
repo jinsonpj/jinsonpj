@@ -1,8 +1,7 @@
 ## Hi there 👋
 I’m a junior software developer training at Northcoders, building JavaScript applications with a focus on clean logic, testable code, and real-world problem solving.
 
-I’m currently contributing to our group Project - - - [**SpillR**](https://github.com/Ines1299/SpillR-app)
-Status: In progress....
+Bootcamp Group Project - - - [**SpillR**](https://github.com/Ines1299/SpillR-app)
 
 My reading list: [How to Learn to Code & Get a Developer Job](https://www.freecodecamp.org/news/learn-to-code-book/)
 <!--
